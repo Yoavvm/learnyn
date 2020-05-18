@@ -1,3 +1,3 @@
 # learnyn
 The day I learnt git
-utracked add -> stagingpush
+utracked add -> stagingpush _> status > commit
